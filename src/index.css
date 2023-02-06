@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.app{
+  background-color: #373535;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+}
